@@ -74,8 +74,6 @@ Before running this project, ensure you have:
 | :---: | :---: |
 | <img src="ImageGithub/welcome.jpeg" width="400" alt="Welcome Screen"> | <img src="ImageGithub/chat-response.jpeg" width="400" alt="Chat Response"> |
 
-## 🤝 Contributing
-Contributions are welcome! If you have suggestions for improvements or bug fixes, please open an issue or submit a pull request.
 
 ## 👤 Author
 **I Gede Dhananjaya**
