@@ -194,3 +194,7 @@
         gap: 5px;
     }
 }
+
+.result-history {
+    margin-bottom: 40px; /* Memberi jarak antar sesi tanya jawab */
+}
